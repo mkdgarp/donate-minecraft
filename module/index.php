@@ -18,11 +18,13 @@
     </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <link rel="stylesheet" href="css/main.style.css">
+    <link rel="stylesheet" href="css/minecraft_model.style.css">
 </head>
 
 <body>
 <?php
-    include "content/main.php"
+    // require "content/main.php";
+    require "content/minecraft_model.php";
 ?>
 </body>
 
