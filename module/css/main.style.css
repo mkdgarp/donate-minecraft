@@ -7,9 +7,21 @@
     text-align: center;
 }
 .box-content{
-    width: 375px;
+    text-align: center;
+    align-items: center;
+    vertical-align: middle;
+    width: 720px;
     height: 30vh;
     margin: auto;
-    /* text-align: center; */
     padding-top: 20%;
+}
+.box-signin {
+    
+height: auto;
+    
+background: red;
+    
+width: 375px;
+    
+margin: auto;
 }

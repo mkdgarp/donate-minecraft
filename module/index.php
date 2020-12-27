@@ -23,8 +23,8 @@
 
 <body>
 <?php
-    // require "content/main.php";
-    require "content/minecraft_model.php";
+    require "content/main.php";
+    // require "content/minecraft_model.php";
 ?>
 </body>
 
